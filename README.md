@@ -83,6 +83,16 @@ const preetam = {
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hacknotch/ecoride)
 
 ---
+### 🌐 ElowenIT — Production Website
+> React + Nginx + AWS EC2
+
+- Delivered production website for registered LLP — Elowen Consulting
+- Sole developer — design to deployment
+- Live on AWS EC2 with Nginx
+
+[![Live](https://img.shields.io/badge/Live-FF6B6B?style=for-the-badge)](https://elowenit.com)
+
+---
 
 ### 🎓 MvjLaunchPad — 2000+ Active Users
 > React + Firebase + GCP + Nginx

@@ -115,7 +115,6 @@ const preetam = {
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hacknotch/ai-docker-tool)
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -126,12 +125,11 @@ const preetam = {
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hacknotch&layout=compact&theme=radical&hide_border=true&title_color=00D9FF" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hacknotch&theme=radical&hide_border=true&bg_color=0D1117&color=00D9FF&line=FF6B6B&point=00D9FF" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hacknotch&bg_color=0D1117&color=00D9FF&line=FF6B6B&point=00D9FF&area=true&hide_border=true" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=hacknotch&theme=radical&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=hacknotch&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15" />
 
 </div>
-
 ---
 
 ## 🏆 Achievements

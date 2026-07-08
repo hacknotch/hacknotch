@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=500&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey!+I'm+Preetam+Kulkarni+👋;DevOps+Engineer;Cloud+Infrastructure+%7C+AWS+%7C+EKS;Docker+%7C+Kubernetes+%7C+CI%2FCD;Full+Stack+Developer;Building+Production+Grade+Systems+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=500&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey!+I'm+Preetam+Kulkarni+👋;DevOps+Engineer+%7C+Cloud+Infrastructure;AWS+%7C+EKS+%7C+Docker+%7C+Kubernetes;CI%2FCD+%7C+GitHub+Actions;Full+Stack+Developer;Building+Production+Grade+Systems+🚀" alt="Typing SVG" />
 
 </div>
 

@@ -120,13 +120,15 @@ const preetam = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hacknotch&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=hacknotch&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&title_color=00D9FF&icon_color=00D9FF" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hacknotch&theme=radical&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hacknotch&theme=radical&hide_border=true&stroke=0000&ring=00D9FF&fire=FF6B6B&currStreakNum=00D9FF&sideNums=00D9FF&currStreakLabel=00D9FF&sideLabels=ffffff&dates=ffffff" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hacknotch&layout=compact&theme=radical&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hacknotch&layout=compact&theme=radical&hide_border=true&title_color=00D9FF" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hacknotch&theme=radical&hide_border=true&bg_color=0D1117" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hacknotch&theme=radical&hide_border=true&bg_color=0D1117&color=00D9FF&line=FF6B6B&point=00D9FF" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=hacknotch&theme=radical&no-frame=true&row=1&column=7" />
 
 </div>
 
